@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdanpinto
-- 👀 I’m interested in life
+- 👀 I’m interested in the tech world
 - 🌱 I’m currently learning HTML5/CSS/JAVASCRIPT - Web Development
 - 💞️ I’m looking to collaborate on Web Development Projects 
 - 📫 How to reach me jdanpinto@gmail.com 
